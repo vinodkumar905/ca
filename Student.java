@@ -33,7 +33,7 @@ public class Student {
         studentname= studentName;
         major= Major;
         gpa= grade;
-       
+       j;
     }
     
     //Creating get method for studentid variable
